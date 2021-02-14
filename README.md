@@ -17,4 +17,4 @@ Momos
 The popular kernels in sklearn are: *linear, polynomial, radial basis function(rbf) and sigmoid*. RBF is used in this code, as it gives good classification report results (compared to others). Best parameters are evaluated using **GridSearchCV()** function in sklearn.
 
 # Libraries used
-Refer to **requirements.txt** to see which files and their versions are necessary to run this code
+Refer to **requirements.txt** to see which files and versions are necessary to run this code
