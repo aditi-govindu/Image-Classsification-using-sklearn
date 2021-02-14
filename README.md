@@ -14,7 +14,7 @@ Burger
 Momos
 ```
 ## Kernel
-The popular kernels in sklearn are: *linear, polynomial, radial basis function(rbf) and sigmoid*. RBF is used in this code, as it gives good classification report results (compared to others). Best parameters are evaluated using **GridSearchCV()** function in sklearn.
+The popular kernels in sklearn are: *linear, polynomial, radial basis function(rbf) and sigmoid*. Kernel is used to map the distance between 2 points of the dataset. A score is assigned to the distance, where closer the points, higher the score. This score can be used for mapping points to more than 2 dimensions. RBF kernel is used in this code, as it gives good classification report results (compared to others). Best parameters are evaluated using **GridSearchCV()** function in sklearn.
 
 # Libraries used
 Refer to **requirements.txt** to see which files and versions are necessary to run this code
