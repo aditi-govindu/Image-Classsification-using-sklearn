@@ -7,3 +7,4 @@ This project uses the **SVM** or Support Vector machine module under sklearn lib
 
 # Support Vector Machine (SVM)
 https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02
+https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/#:~:text=A%20support%20vector%20machine%20(SVM,able%20to%20categorize%20new%20text.
