@@ -20,8 +20,8 @@ The popular kernels in sklearn are: *linear, polynomial, radial basis function(r
 Refer to **requirements.txt** to see which files and versions are necessary to run this code
 
 # References
-```
 https://scikit-learn.org/stable/modules/svm.html
+
 https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02
+
 https://www.youtube.com/watch?v=dw96S_iFFbI&t=7346s
-```
