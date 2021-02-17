@@ -1,4 +1,4 @@
-# Image Classsification using sklearn
+# Image Classification using sklearn
 Using Machine learning algorithms to classify images under 3 categories
 
 # sklearn
